@@ -16,7 +16,7 @@ This project provides a comprehensive Stock Market Analysis Dashboard created us
  
 ## Files Included
  
-- **Python Notebook**: [`Stock Market Analysis.ipynb`](./Stock Market Analysis.ipynb) - Python code for data cleaning and preparation.
+- **Python Notebook**: [`Stock Market Analysis.ipynb`](./Stock%20Market%20Analysis.ipynb) - Python code for data cleaning and preparation.
 - **CSV Files**:
   - [`Apple.csv`](./Apple.csv)
   - [`Facebook.csv`](./Facebook.csv)
